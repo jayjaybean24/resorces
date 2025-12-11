@@ -1,0 +1,3 @@
+player.onChat("people", function () {
+	
+})
